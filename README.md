@@ -1,2 +1,3 @@
-# do-the-chat
-Do The Chat Flutter App.
+# Do The Chat
+
+`Do The Chat` Flutter App.
