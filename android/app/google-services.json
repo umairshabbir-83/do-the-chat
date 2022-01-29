@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199620268065",
+    "project_id": "do-the-chat",
+    "storage_bucket": "do-the-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199620268065:android:b777c676a1f642377d1360",
+        "android_client_info": {
+          "package_name": "com.example.do_the_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199620268065-14r7o175cqhn8s54mnlci8h7dsv8joua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnXMoHzLA7WfEvCGLOknMcvzCFQlYb0nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199620268065-14r7o175cqhn8s54mnlci8h7dsv8joua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
